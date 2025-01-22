@@ -23,7 +23,7 @@ A smart WhatsApp bot that combines the power of GPT-4 with real-time weather dat
 
 1. Clone the repository:
 ```bash
-git clone (https://github.com/qayyum188/ChatGPT-4-with-Real-Time-Weather-Capabalities-WhatsApp.git)
+git clone [https://github.com/qayyum188/ChatGPT-4-with-Real-Time-Weather-Capabalities-WhatsApp.git]
 cd whatsapp-bot
 ```
 
