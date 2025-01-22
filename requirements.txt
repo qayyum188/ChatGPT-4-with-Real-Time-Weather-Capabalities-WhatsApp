@@ -1,0 +1,6 @@
+flask
+twilio
+langchain-openai
+python-dotenv
+requests
+langchain-core
